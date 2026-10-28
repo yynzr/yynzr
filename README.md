@@ -27,7 +27,7 @@
 ###### Dabbled in the past with :
 
 <div align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=c,cpp,csharp,java,python,pygame,php,mysql,lua">
+  <img src="https://skills.syvixor.com/api/icons?i=c,cpp,csharp,java,pygame,php,mysql,lua">
 </div>
 
 <hr>
